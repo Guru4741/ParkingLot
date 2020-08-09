@@ -9,7 +9,7 @@ park KA-01-HH-5621
 park KA-01-HH-2131
 leave KA-01-HH-3141 4
 status
-park KA-01-P-333
+park KA-01-PY-3333
 park DL-12-AA-9999
 leave KA-01-HH-1234 4
 leave KA-01-BB-0001 6

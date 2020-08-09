@@ -2,7 +2,7 @@
 
 Copy the parkingLot folder.
 Setup Node Environment on your system.
-Cd.. inside the parkingLot directory / folder and run `npm i` to install all the dependencies.
+Cd.. inside the parkingLot directory / folder and run `npm i` to install all the dependencies. It uses only one for the Testing purposes.
 Run `npm link` to use the source file as executable
 
 # How to write commands
@@ -21,7 +21,7 @@ park KA-01-HH-5621
 park KA-01-HH-2131
 leave KA-01-HH-3141 4
 status
-park KA-01-P-333
+park KA-01-PY-3333
 park DL-12-AA-9999
 leave KA-01-HH-1234 4
 leave KA-01-BB-0001 6
@@ -35,4 +35,8 @@ status
 
 Go to the terminal
 Cd.. to the parkingLot directory / folder
-Type / run commmand : `parkingLot <textfilename.txt>` textfilename is the name of the text file created above
+Type / Run commmand : `parkingLot <textfilename.txt>` textfilename is the name of the text file created above
+
+# How to run tests
+
+Run `npm test` on terminal
