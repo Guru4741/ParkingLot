@@ -34,5 +34,8 @@ runCommands = (command) => {
         case "status":
             parkingLot.status();
             break;
+        default:
+            console.log("\x1b[31m%s\x1b[0m", `${command} : Command is not correct. Please enter the correct one`);
+            break;
     }
 };
