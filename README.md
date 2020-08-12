@@ -37,6 +37,8 @@ Go to the terminal
 Cd.. to the parkingLot directory / folder
 Type / Run commmand : `parkingLot <textfilename.txt>` textfilename is the name of the text file created above
 
+![ParkingLot](https://imgur.com/xLVymbW)
+
 # How to run tests
 
 Run `npm test` on terminal
