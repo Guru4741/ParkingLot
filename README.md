@@ -36,6 +36,7 @@ Run `npm link` to use the source file as executable
 
 Create a text file with whatever name you desired
 Add the instructions / commands in it as shown below. You can also copy the same.
+...
 
 - create_parking_lot 6
 - park KA-01-HH-1234
@@ -57,6 +58,8 @@ Add the instructions / commands in it as shown below. You can also copy the same
 - park CA-09-IO-1111
 - park KA-09-HH-0123
 - status
+
+...
 
 # How to run
 
